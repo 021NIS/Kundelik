@@ -22,4 +22,5 @@ $ react-native run-ios (or run-android)
 
 * Remove single task
 * Remove all tasks
+* Add Empty Screen
 * Filter task by status
