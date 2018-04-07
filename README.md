@@ -18,4 +18,8 @@ $ npm install or yarn install
 $ react-native run-ios (or run-android)
 ```
 
-3.  Tasks
+3.  Home Work
+
+* Remove single task
+* Remove all task
+* Filter task by status
