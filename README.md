@@ -20,7 +20,7 @@ $ react-native run-ios (or run-android)
 
 3.  Home Work
 
-* Remove single task
+* Remove task
 * Remove all tasks
 * Add Empty Screen
 * Filter task by status
